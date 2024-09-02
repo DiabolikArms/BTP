@@ -1,0 +1,23 @@
+{
+    "author": "",
+    "tag": "",
+    "timestamp": "",
+    "article_content": "",
+    "comments": [
+        {
+            "user": "",
+            "comment_text": "",
+            "upvotes": "",
+            "downvotes": "",
+            "replies": [
+                {
+                    "user": "",
+                    "reply_to": "",
+                    "comment_text": "",
+                    "upvotes": "",
+                    "downvotes": ""
+                }
+            ]
+        }
+    ]
+}
