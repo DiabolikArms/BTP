@@ -1,0 +1,16 @@
+Politics - DONE
+Good news - DONE
+India - DONE
+Sports 
+Education 
+Tech news - DONE
+-------------------------------------
+-> FOR EACH CATEGORY, I NEED TO MAKE ANOTHER FILE FOR CRAWLING
+
+
+Time stamp of Last 6 months
+No of articles in each category - print 
+No of articles with user engagement in each category - print
+Global list of User names - all the users in throughout all the categories
+Total number of articles in each category in past 6 months
+Among those, how many are having user involvement and how many are not having user involvement
