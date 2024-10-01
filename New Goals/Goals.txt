@@ -1,8 +1,8 @@
 Politics - DONE
 Good news - DONE
 India - DONE
-Sports 
-Education 
+Sports - TODO
+Education - DONE
 Tech news - DONE
 -------------------------------------
 -> FOR EACH CATEGORY, I NEED TO MAKE ANOTHER FILE FOR CRAWLING

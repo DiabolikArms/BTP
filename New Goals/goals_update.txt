@@ -1,0 +1,2 @@
+we need to get all the article links from each category - irrespective of whether it is in the 6 month bracket or not
+while crawling the article, if the timestamp is out of the past 6 months then, don't crawl it
