@@ -4,18 +4,6 @@
 
 This project investigates user engagement bias within the Indian news media, specifically focusing on The Times of India (TOI). As media consumption significantly impacts public opinion, this analysis aims to identify patterns in user interactions that align with specific political, social, or communal ideologies. By understanding these trends, we aspire to promote media literacy and accountability, contributing to a more balanced media landscape in India.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Data Collection](#data-collection)
-- [Execution](#execution)
-- [Directory Structure](#directory-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [References](#references)
-
 ## Features
 
 - Systematic web crawling and data scraping of TOI articles and user comments.
@@ -46,8 +34,6 @@ To run the scripts, ensure you have the required dependencies installed. You can
 
 - Python 3.x
 - Required libraries (install via `pip install -r requirements.txt`)
-
-``
 
 ## References
 
