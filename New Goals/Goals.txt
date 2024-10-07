@@ -1,11 +1,11 @@
 Politics - DONE
 Good news - DONE
 India - DONE
-Sports - TODO
+Sports - DONE
 Education - DONE
 Tech news - DONE
 -------------------------------------
--> FOR EACH CATEGORY, I NEED TO MAKE ANOTHER FILE FOR CRAWLING
+-> FOR EACH CATEGORY, I NEED TO MAKE ANOTHER FILE FOR CRAWLING - DONE
 
 
 Time stamp of Last 6 months
